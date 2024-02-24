@@ -1,3 +1,5 @@
+![image](https://github.com/amina2155/Simple-Weather-App-Practice/assets/98386611/92814a91-3e69-4c6a-aa5a-0970dbdbac4a)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
